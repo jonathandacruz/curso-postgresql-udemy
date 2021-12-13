@@ -8,5 +8,5 @@ Este repositório trará todo código fonte utilizado no desenvolvimento das aul
 [Como instalar o Dbeaver? - Baixe a versão Community Edition](https://dbeaver.io/download/)
 
 # Carga de Dados <h3>
- > [ Acesse o Script de carga inicial aqui ](https://github.com/Paintxd/restaurantes-PI2/blob/main/bd/db_restaurante.sql)
+ > [ Acesse o Script de carga inicial aqui ](https://github.com/jonathandacruz/curso-postgresql-udemy/blob/master/carga-inicial.sql)
   
