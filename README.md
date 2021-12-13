@@ -6,3 +6,7 @@ Este repositório trará todo código fonte utilizado no desenvolvimento das aul
 [ Como instalar o Postgresql? ](https://www.postgresql.org/download/)
   <br>
 [Como instalar o Dbeaver? - Baixe a versão Community Edition](https://dbeaver.io/download/)
+
+# Carga de Dados <h3>
+ > [ Acesse o Script de carga inicial aqui ](https://github.com/Paintxd/restaurantes-PI2/blob/main/bd/db_restaurante.sql)
+  
