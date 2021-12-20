@@ -1,5 +1,9 @@
 # Curso Postgres - Trilha de Aprendizado
 Este repositório trará todo código fonte utilizado no desenvolvimento das aulas ministradas na Udemy no curso de Postgresql
+<br>
+[Acesse o curso com desconto](https://www.udemy.com/user/jonathan-da-cruz/)
+
+
 
 # Dicas Úteis <h1>
 [ Como instalar o Postgresql? ](https://www.postgresql.org/download/)
