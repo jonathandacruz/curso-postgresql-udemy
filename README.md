@@ -1,4 +1,4 @@
-# curso-postgresql-udemy
+# Curso Postgres - Trilha de Aprendizado
 Este repositório trará todo código fonte utilizado no desenvolvimento das aulas ministradas na Udemy no curso de Postgresql
 
 # Dicas Úteis <h1>
@@ -20,7 +20,7 @@ Este repositório trará todo código fonte utilizado no desenvolvimento das aul
 # Álgebra Relacional <h3>
   > [ Acesse o arquivo com a base de dados para utilizar no Relax ](https://github.com/jonathandacruz/curso-postgresql-udemy/blob/master/bdTeste)
 
-# Relax <h3>
+# Relax - Ferramenta para testar conceitos de álgebra relacional <h3>
  [ Repositório ](https://github.com/dbis-uibk/relax)
   <br>
  [ Ferramenta Online ](https://dbis-uibk.github.io/relax/calc/local/uibk/local)
