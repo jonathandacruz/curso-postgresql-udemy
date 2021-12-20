@@ -16,3 +16,12 @@ Este repositório trará todo código fonte utilizado no desenvolvimento das aul
   
 # Instalando JDBC <h3>
  > [ Saiba mais sobre Database Drivers ](https://dbeaver.com/docs/wiki/Database-drivers)
+
+# Álgebra Relacional <h3>
+  > [ Acesse o arquivo com a base de dados para utilizar no Relax ](https://github.com/jonathandacruz/curso-postgresql-udemy/blob/master/bdTeste)
+
+# Relax <h3>
+ [ Repositório ](https://github.com/dbis-uibk/relax)
+  <br>
+ [ Ferramenta Online ](https://dbis-uibk.github.io/relax/calc/local/uibk/local)
+  
