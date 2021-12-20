@@ -1,0 +1,80 @@
+group: aula
+
+Clientes = {
+CPF, nome, origem, fone
+
+10000000001, 'Dexter', 'Florianopolis', '10000000'
+20000000002, 'Harry Potter', 'Blumenau', '20000000'
+30000000003, 'Hannibal', 'Joinville', '30000000'
+40000000004, 'Jon Snow', 'Winterfell', '40000000'
+50000000005, 'Lucifer', 'Hell', '50000000'
+60000000006, 'Harvey Specter', 'New York','60000000'
+70000000007, 'James T Kirk', 'Enterprise', '70000000'
+}
+
+TiposQuartos = {
+id, descricao, preco
+
+ 1,'quartoSimples', 100
+ 2,'quartoDuplo', 200
+ 3,'quartoTriplo', 300
+ 4,'aptoSimples', 400
+ 5,'aptoDuplo', 500
+ 6,'aptoDuplo', 600
+ }
+
+Quartos ={
+cod, Frigobar, tipo
+
+ 1, 'S', 1
+ 2, 'N', 3
+ 3, 'S', 5
+ 4, 'N', 6
+ 5, 'N', 5
+ 6, 'S', 2
+ }
+
+Hospedes = {
+cpf, motivo, placaVeiculo, nroAcomp, dataEnt, dataSai, quarto
+
+ 10000000001, 'trabalho', 'ABC1234', 0, '01/10/2019', '03/10/2019', 1
+ 20000000002, 'estudo', 'DEF1234', 2, '03/10/2019', '13/10/2019', 2
+ 30000000003, 'visita familiar', 'GHI123', 1, '09/11/2019', '14/11/2019', 3
+ 40000000004, 'visita familiar', 'JKL123', 4, '13/10/2019', '15/10/2019',4
+ 50000000005, 'turismo', 'MNO123', 1, '01/01/2019', '01/06/2019',5
+ }
+
+Reservas = {
+cpf, quarto, dataEnt, dataSai
+
+ 60000000006, 4, '05/06/2019', '07/06/2019'
+ 70000000007, 5, '10/12/2019', '23/12/2019'
+ 20000000002, 3, '01/11/2019', '05/11/2019'
+ 40000000004, 2, '23/05/2019', '24/05/2019'
+ 30000000003, 1, '10/1Buscar 2/2019', '14/12/2019'
+ }
+
+Cardapios = {
+cod, descricao, preco
+
+ 1, 'cafe', 10
+ 2, 'almoco', 20
+ 3, 'janta', 30
+ 4, 'salgado', 40
+ 5, 'refrigerante', 50
+ 6, 'sanduiche', 60
+ 7, 'sanduiche', 70
+ }
+
+Consumo ={
+cod, hospede, itemCardapio, data, qtde
+
+ 1, 10000000001, 1, '02/10/2019',1
+ 2, 10000000001, 3, '02/10/2019',1
+ 3, 20000000002, 2, '12/10/2019',2
+ 4, 30000000003, 4, '10/11/2019',5
+ 5, 40000000004, 1, '14/10/2019',3
+ 6, 50000000005, 5, '15/05/2019',4
+ 7, 20000000002, 3, '12/10/2019',1
+ 8, 20000000002, 3, '12/10/2019',2
+ }
