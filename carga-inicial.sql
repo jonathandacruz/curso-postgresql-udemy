@@ -256,3 +256,11 @@ INSERT INTO pedido (dt_inic, aprovado, dt_fim, comanda_id, usuario_id_cliente, u
 VALUES (now(), 0, NULL, 1, 1, 2);
 
 INSERT INTO cardapio_pedido (cardapio_id, pedido_id, qtde) values  (1, 1, 2);
+
+
+
+INSERT INTO usuario (nome, cpf, tppessoa_id, endereco,telefone, email, senha) VALUES
+('Felipe Andre', 9123123882, 2 , 'Avenida Beria Rio, Florianópolis SC', 88923123123, 'felipe@gmail.com', '123123');
+
+INSERT INTO usuario (nome, cpf, tppessoa_id, endereco,telefone, email, senha) VALUES
+('Andre Souza', 98385678882, 1 , 'Avenida Beria Rio, Florianópolis SC', 23123123, 'teste@teste.com', '123123');
