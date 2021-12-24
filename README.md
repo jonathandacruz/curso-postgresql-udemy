@@ -2,7 +2,8 @@
 Este repositório trará todo código fonte utilizado no desenvolvimento das aulas ministradas na Udemy no curso de Postgresql
 <br>
 [Acesse o curso com desconto](https://www.udemy.com/user/jonathan-da-cruz/)
-
+<br>
+[Canal do Discord!](https://discord.gg/t8eB6uACQN)
 
 
 # Instalação de Ferramentas <h1>
