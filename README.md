@@ -14,6 +14,9 @@ Este repositório trará todo código fonte utilizado no desenvolvimento das aul
 # Carga de Dados <h3>
  > [ Acesse o Script de carga inicial aqui ](https://github.com/jonathandacruz/curso-postgresql-udemy/blob/master/carga-inicial.sql)
 
+  
+# Ferramenta web pg-sql <h3>
+[ Acesse aqui ](https://pg-sql.com/)  
 # Tipo de Dados PostgreSQL <h3>
  [ Overview ](https://www.postgresqltutorial.com/postgresql-data-types/)
   <br>
